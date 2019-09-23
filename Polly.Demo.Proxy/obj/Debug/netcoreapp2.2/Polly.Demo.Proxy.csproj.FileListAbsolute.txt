@@ -1,0 +1,17 @@
+C:\Users\sdeggans\source\repos\Polly.Demo\Polly.Demo.Proxy\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\sdeggans\source\repos\Polly.Demo\Polly.Demo.Proxy\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\sdeggans\source\repos\Polly.Demo\Polly.Demo.Proxy\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\sdeggans\source\repos\Polly.Demo\Polly.Demo.Proxy\bin\Debug\netcoreapp2.2\Polly.Demo.Proxy.deps.json
+C:\Users\sdeggans\source\repos\Polly.Demo\Polly.Demo.Proxy\bin\Debug\netcoreapp2.2\Polly.Demo.Proxy.runtimeconfig.json
+C:\Users\sdeggans\source\repos\Polly.Demo\Polly.Demo.Proxy\bin\Debug\netcoreapp2.2\Polly.Demo.Proxy.runtimeconfig.dev.json
+C:\Users\sdeggans\source\repos\Polly.Demo\Polly.Demo.Proxy\bin\Debug\netcoreapp2.2\Polly.Demo.Proxy.dll
+C:\Users\sdeggans\source\repos\Polly.Demo\Polly.Demo.Proxy\bin\Debug\netcoreapp2.2\Polly.Demo.Proxy.pdb
+C:\Users\sdeggans\source\repos\Polly.Demo\Polly.Demo.Proxy\obj\Debug\netcoreapp2.2\Polly.Demo.Proxy.csproj.CoreCompileInputs.cache
+C:\Users\sdeggans\source\repos\Polly.Demo\Polly.Demo.Proxy\obj\Debug\netcoreapp2.2\Polly.Demo.Proxy.RazorAssemblyInfo.cache
+C:\Users\sdeggans\source\repos\Polly.Demo\Polly.Demo.Proxy\obj\Debug\netcoreapp2.2\Polly.Demo.Proxy.RazorAssemblyInfo.cs
+C:\Users\sdeggans\source\repos\Polly.Demo\Polly.Demo.Proxy\obj\Debug\netcoreapp2.2\Polly.Demo.Proxy.AssemblyInfoInputs.cache
+C:\Users\sdeggans\source\repos\Polly.Demo\Polly.Demo.Proxy\obj\Debug\netcoreapp2.2\Polly.Demo.Proxy.AssemblyInfo.cs
+C:\Users\sdeggans\source\repos\Polly.Demo\Polly.Demo.Proxy\obj\Debug\netcoreapp2.2\Polly.Demo.Proxy.RazorTargetAssemblyInfo.cache
+C:\Users\sdeggans\source\repos\Polly.Demo\Polly.Demo.Proxy\obj\Debug\netcoreapp2.2\Polly.Demo.Proxy.dll
+C:\Users\sdeggans\source\repos\Polly.Demo\Polly.Demo.Proxy\obj\Debug\netcoreapp2.2\Polly.Demo.Proxy.pdb
+C:\Users\sdeggans\source\repos\Polly.Demo\Polly.Demo.Proxy\obj\Debug\netcoreapp2.2\Polly.Demo.Proxy.csprojAssemblyReference.cache
