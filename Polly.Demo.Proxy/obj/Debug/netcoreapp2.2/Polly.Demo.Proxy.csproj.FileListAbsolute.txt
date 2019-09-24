@@ -14,4 +14,3 @@ C:\Users\sdeggans\source\repos\Polly.Demo\Polly.Demo.Proxy\obj\Debug\netcoreapp2
 C:\Users\sdeggans\source\repos\Polly.Demo\Polly.Demo.Proxy\obj\Debug\netcoreapp2.2\Polly.Demo.Proxy.RazorTargetAssemblyInfo.cache
 C:\Users\sdeggans\source\repos\Polly.Demo\Polly.Demo.Proxy\obj\Debug\netcoreapp2.2\Polly.Demo.Proxy.dll
 C:\Users\sdeggans\source\repos\Polly.Demo\Polly.Demo.Proxy\obj\Debug\netcoreapp2.2\Polly.Demo.Proxy.pdb
-C:\Users\sdeggans\source\repos\Polly.Demo\Polly.Demo.Proxy\obj\Debug\netcoreapp2.2\Polly.Demo.Proxy.csprojAssemblyReference.cache
