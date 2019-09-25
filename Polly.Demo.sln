@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Polly.Demo.Server", "Polly.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Polly.Demo.Proxy", "Polly.Demo.Proxy\Polly.Demo.Proxy.csproj", "{0D8EE1EF-AE73-45B8-9FC8-A495EB6B1B74}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polly.Demo.CircuitBreaker", "Polly.Demo.CircuitBreaker\Polly.Demo.CircuitBreaker.csproj", "{9E51A239-2260-4A43-BFED-73EA06193AB7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Polly.Demo.CircuitBreaker", "Polly.Demo.CircuitBreaker\Polly.Demo.CircuitBreaker.csproj", "{9E51A239-2260-4A43-BFED-73EA06193AB7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
