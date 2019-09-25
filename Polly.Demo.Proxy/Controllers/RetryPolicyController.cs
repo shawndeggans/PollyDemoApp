@@ -18,13 +18,19 @@ namespace Polly.Demo.Proxy.Controllers
 
         public RetryPolicyController()
         {
-            //here I'm telling the retry policy that I want to retry at least 3 times if I encounter a failure
-            //Policy.HandleResult<HttpResponseMessage>(r => !r.IsSuccessStatusCode).RetryAsync(3);
+            //Policies are how we tell Polly what to do
+            // .Handle checks the response from the request
+            // here we tell it to look for an exception or any http status code that is not a success status code
+            // .RetryAsync is the behavior clause that specifies the retry policy count
+            
             _httpRetryPolicy = Policy
                 .Handle<Exception>()
                 .OrResult<HttpResponseMessage>(r => !r.IsSuccessStatusCode)
                 .RetryAsync(3, (ex, retryCount) =>
                 {
+                    //this section is a delegate that can be called prior to each retry
+                    //This is useful if you get an authorization failure and you want to 
+                    //re-authorize
                     Console.WriteLine("Retry Count {0}", retryCount);
                 });
         }
