@@ -8,9 +8,9 @@ using Newtonsoft.Json;
 namespace Polly.Demo.Proxy.Controllers
 {
     [Produces("application/json")]
-    [Route("api/nopolly")]
+    [Route("api/nopoly")]
     [ApiController]
-    public class NoPollyController : ControllerBase
+    public class NoPolyController : ControllerBase
     {
         [HttpGet("{id}")]
         public async Task<IActionResult> Get(int id)
